@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ManuRC2/manurc2.github.io/static/css/main.b7c17e8e.css",
+    "main.js": "/ManuRC2/manurc2.github.io/static/js/main.5a6da88e.js",
+    "index.html": "/ManuRC2/manurc2.github.io/index.html",
+    "main.b7c17e8e.css.map": "/ManuRC2/manurc2.github.io/static/css/main.b7c17e8e.css.map",
+    "main.5a6da88e.js.map": "/ManuRC2/manurc2.github.io/static/js/main.5a6da88e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b7c17e8e.css",
+    "static/js/main.5a6da88e.js"
+  ]
+}
